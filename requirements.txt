@@ -1,1 +1,21 @@
- pandas numpy scikit-learn xgboost fastapi uvicorn streamlit plotly sqlalchemy psycopg2-binary
+
+pandas 
+
+numpy 
+
+scikit-learn 
+
+xgboost 
+
+fastapi 
+
+uvicorn 
+
+streamlit 
+
+plotly 
+
+sqlalchemy 
+
+psycopg2-binary
+

@@ -1,7 +1,19 @@
 # 🔧 Predictive Maintenance IoT Dashboard
+
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge)](https://predictive-maintenance-gdiaz38.streamlit.app/)
+
 Production-style predictive maintenance system built on NASA's CMAPSS turbofan
 engine dataset. XGBoost remaining useful life (RUL) predictor with real-time
 sensor monitoring, deployed as a REST API with a live operations dashboard.
+
+---
+
+## 🚀 Try It Live
+
+**[→ Open Live Dashboard](https://predictive-maintenance-gdiaz38.streamlit.app/)**
+
+Monitor a simulated engine fleet, plot degradation trajectories, and watch
+a real-time critical failure alert simulation.
 
 ---
 

@@ -1,6 +1,8 @@
 venv/
-*.npy
-*.pkl
-__pycache__/
 .DS_Store
-*.png
+__pycache__/
+*.pyc
+.python-version
+training_results.png
+rul_distribution.png
+sensor_degradation.png

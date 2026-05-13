@@ -11,7 +11,7 @@ An XGBoost-based Remaining Useful Life (RUL) predictor for industrial turbofan e
 
 ## 📊 Live Dashboard
 
-👉 **[View Live App]([https://predictive-maintenance-gdiaz38.streamlit.app/])**
+👉 **[View Live App](https://predictive-maintenance-gdiaz38.streamlit.app/)**
 
 ---
 
